@@ -14,7 +14,7 @@ public class Main {
     ArrayList<String>DeleteHewan = new ArrayList<String >();
         DeleteHewan.add("Kelinci");
         DeleteHewan.add("Kambing");
-        DeleteHewan.add("u nta");
+        DeleteHewan.add("unta");
 
         // menghapus data pada objek Hewan yang sama dengan data warna pada objek DeleteHewan
         for (String warna : DeleteHewan) {
